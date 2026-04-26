@@ -1,7 +1,7 @@
 ### Hi👋, I'm Jeff!
 <!--### Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/jefflai0412/count.svg) visitor<br>-->
 
-- I'm a 20-years-old student from Taiwan.
+- I'm a 21-years-old student based in Australia.
 - Currently studing Bachelor of Information Technology in University of South Australia.
 <!-- These stats will show GitHub activity -->
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=jefflai0412&show_icons=true&theme=dark" />
